@@ -75,13 +75,13 @@ This project aims to extract textual data articles from given URLs and perform t
       - Open a terminal or command prompt and navigate to the directory containing the Python script and input Excel file.
       - Run the Python script using the following command:
         ```
-        python extract_text_data.py
+        python Data_analytics.py
         ```
       - The script will extract article text from the provided URLs and save them as text files in the specified output directory.
 
 #### Additional Notes:
 
-- Make sure to replace the file paths in the Python script (`extract_text_data.py`) with the appropriate paths on your system.
+- Make sure to replace the file paths in the Python script (`Data_analytics.py`) with the appropriate paths on your system.
 - For performing text analysis and computing variables, additional code needs to be added to the Python script after extracting the article text.
 
 #### Contributors:
