@@ -86,7 +86,7 @@ This project aims to extract textual data articles from given URLs and perform t
 
 #### Contributors:
 
-- [Your Name]
-- [Your Email]
+- Abhishek Bodkhe
+- abofficial777@gmail.com
 
 Feel free to reach out for any questions or assistance!
