@@ -71,7 +71,7 @@ This project aims to extract textual data articles from given URLs and perform t
         ```
 
    3. **Execution**:
-      - Clone or download the repository containing the Python script (`extract_text_data.py`) and the input Excel file (`Input.xlsx`).
+      - Clone or download the repository containing the Python script (`Data_analytics.py`) and the input Excel file (`Input.xlsx`).
       - Open a terminal or command prompt and navigate to the directory containing the Python script and input Excel file.
       - Run the Python script using the following command:
         ```
